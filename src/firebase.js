@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDQSVWi5wp9FJR0iPWPo8qh17wBnGAU_VE",
+  apiKey: "AIzaSyDYbU6ihpNwozg1IVMbsYuXluglstJ9OGY",
   authDomain: "netflix-gpt-3c343.firebaseapp.com",
   projectId: "netflix-gpt-3c343",
   storageBucket: "netflix-gpt-3c343.appspot.com", // FIXED
